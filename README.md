@@ -6,7 +6,7 @@ Open the terminal and type the following commands
 then save and close the file
 return to terminal and type this
 "cc c.c -o gcc"
-# "gcc" being the file name that you may want to put. You can change the name upon your convenience
+/*"gcc" being the file name that you may want to put. You can change the name upon your convenience*/
 "./gcc"
 and Voila
 
