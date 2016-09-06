@@ -10,7 +10,6 @@ int main()
  
  strcpy(ch1,"gedit ");
  strcat(ch1,ch);
-printf("%s",ch1);
  i=system(ch1);
 if (i!=0)
  printf("\nOperation not successful");
